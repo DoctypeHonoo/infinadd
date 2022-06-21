@@ -40,6 +40,7 @@ $ ./infin_add 1ER_Nombre 2EME_Nombre
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91092610/174876059-4fb7c427-c156-434b-ae23-8b7a83e32eb2.png"/>
 </p>
+
 ---
 
 ## Comment l'utiliser ? : 
