@@ -29,16 +29,16 @@ Le but de ce projet est de nous apprendre à faire des opérations avec des cha�
 
 Ouvrez un terminal et dirigez vous ou vous souhaitez que le projet soit installé, puis exécutez les commandes suivantes : 
 ```bash
-$ git clone git@github.com:DoctypeHonoo/bistromatic.git
-$ cd bistromatic
+$ git clone git@github.com:DoctypeHonoo/infinadd.git
+$ cd infinadd
 $ make
 ```
 Une fois compilé, le binaire se trouvera à la racine du projet, et il vous faudra l'utiliser comme ceci :
 ```bash
-$ echo Calcul | ./calc Base Operateurs Longueur
+$ ./infin_add 1ER_Nombre 2EME_Nombre
 ```
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174844033-bfef5640-1915-44c3-976e-845a6a91514d.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174876059-4fb7c427-c156-434b-ae23-8b7a83e32eb2.png"/>
 </p>
 ---
 
