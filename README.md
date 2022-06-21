@@ -9,7 +9,7 @@
 
 ## Motivation : 
 
-Le **InfinAdd** est un des trois projets de début d'année à Epitech, on nous apprenons à programmer une calculatrice qui permet de faire des opérations infini et de différente base. L'InfinAdd est le tout premier projet de cette série, et son objectif est de faire des additions sur des chiffres Infini.
+Le **InfinAdd** est un des trois projets de début d'année à Epitech, ou nous apprenons à programmer une calculatrice qui permet de faire des opérations infini et de différente base. L'InfinAdd est le tout premier projet de cette série, et son objectif est de faire des additions sur des chiffres Infini.
 
 ---
 
