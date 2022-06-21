@@ -2,26 +2,26 @@
   <img src="https://user-images.githubusercontent.com/91092610/174870855-413fe7d8-539d-48bc-8e3e-e64d63058d34.png"/>
 </p>
 <h1 align="center">
-   InfiniAdd
+   InfinAdd
 </h1>
 
 ---
 
 ## Motivation : 
 
-La **Bistromatic** est un projet de début d'année à Epitech, il s'effectue en groupe de trois. Il est le dernier projet d'une série de trois projet dans le but de créer une calculatrice. Il suit le InfinAdd et le Evalexpr.
+Le **InfinAdd** est un des trois projets de début d'année à Epitech, on nous apprenons à programmer une calculatrice qui permet de faire des opérations infini et de différente base. L'InfinAdd est le tout premier projet de cette série, et son objectif est de faire des additions sur des chiffres Infini.
 
 ---
 
 ## Description :
 
-Le but de ce projet est donc de créer une calculatrice qui interprête les nombres dans des chaînes de caractères afin de ne pas être limité par le maximum integer et donc de pouvoir faire des calculs infini. De plus il peut-être utilisé avec n'importe quel base, et les opérateurs peuvent être modifié. 
+Le but de ce projet est de nous apprendre à faire des opérations avec des chaînes de caractères, afin de ne pas être limité par le maximum integer. De cette façon il nous sera possible de faire des additions avec des nombres aussi grands que l'on veut. Le programme doit aussi pouvoir faire des addtions avec des nombres négatifs.
 
 ---
 
 ## Fonctions Autorisées : 
 
-- read, write, malloc, free, exit
+- write, malloc, ree
 
 ---
 
