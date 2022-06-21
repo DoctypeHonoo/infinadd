@@ -45,6 +45,7 @@ $ ./infin_add 1ER_Nombre 2EME_Nombre
 
 ## Comment l'utiliser ? : 
 
-La commande echo doit être utilisé en même temps que le binaire du programme séparé par un pipe "|". Le echo en premier avec comme arguments le calcul demandé, puis pour les arguments lors de l'exécution du binaire, l'utilisateur devra fournir la base (ex: "0123456789"), ainsi que les opérateurs (ex: "()+-\*/%") et pour finir la longueur du calcul donner avec le echo.
-![image](https://user-images.githubusercontent.com/91092610/174857243-9dcd8ab3-cf45-4ea0-be7c-46704f25741c.png)
-![image](https://user-images.githubusercontent.com/91092610/174857570-c836307c-550d-4c50-9b6e-85e4fe0ce0df.png)
+L'utilisateur doit donner deux chaînes de caractère contenant des nombres à additionner dans la ligne d'exécution du binaire : 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91092610/174876619-79dd2128-6b7f-4680-881f-83f1384971ef.png"/>
+</p>
