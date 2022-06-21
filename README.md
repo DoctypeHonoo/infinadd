@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/91092610/174841251-a7b3671d-5941-43e3-94d3-3d1988cd08de.png"/>
+  <img src="https://user-images.githubusercontent.com/91092610/174870855-413fe7d8-539d-48bc-8e3e-e64d63058d34.png"/>
 </p>
 <h1 align="center">
-   Bistromatic
+   InfiniAdd
 </h1>
 
 ---
